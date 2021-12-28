@@ -8,5 +8,5 @@ Connect4 AI Agent to play against itself (AI vs AI), a human user (AI vs Human),
 1. Install the requirements: ``pip install -r requirements.txt``.
 1. Install tkinter on your system according to [their documentation](https://tkdocs.com/tutorial/install.html). For Linux: ``sudo apt install python3-tk``.
 1. Run the ``Connect4.py`` file: ``python3 ConnectFour.py {ai, random, human} {ai, random, human}``.
-- Pick one of the three options in {ai, random, human} for player1 then player2. No braces in the command.
+    - Pick one of the three options in {ai, random, human} for player1 then player2. No braces in the command.
 1. User interface will appear and click on Next Move button on the bottom to play.
